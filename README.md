@@ -1,5 +1,7 @@
 # Quick Start Project Using Node.js + EJS + Express
 
+Start a web project quickly!
+
 ## Install Express
 If you already have Express instaled, skip this step.
 
