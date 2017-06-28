@@ -1,4 +1,4 @@
-# Quick Start Project Using Node.js + EJS + Express
+# Quick Start Project using Node.js + EJS + Express
 
 Start a web project quickly!
 
